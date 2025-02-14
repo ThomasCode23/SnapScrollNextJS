@@ -1,6 +1,6 @@
 # Snap Scroll Next JS
 
-SnapScroll is a sleek and responsive Next.js web template that provides a smooth snapping scroll experience. Each page component automatically snaps into view as users scroll, creating an intuitive and engaging browsing experience.
+SnapScroll is a simple Next.js web template that provides a smooth snapping scroll experience. Each page component automatically snaps into view as users scroll, creating an intuitive and engaging browsing experience.
 
 
 ## Features
